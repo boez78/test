@@ -7,9 +7,8 @@
 </head>
 <body>
 <?php
-$t=1500;
-$r=55;
-echo ($f * $g);
+phpinfo();
+
 
 ?>
 </body>
